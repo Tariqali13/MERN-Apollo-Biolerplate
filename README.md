@@ -1,1 +1,1 @@
-# MERN-Apollo-Biolerplate
+MERN Apollo Biolerplate
